@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/programinglive/laravel-simple-backup/compare/v0.0.2...v0.0.3) (2025-12-08)
+
+
+### 🐛 Bug Fixes
+
+* relax dependency constraints and add laravel 12 support ([790ff3d](https://github.com/programinglive/laravel-simple-backup/commit/790ff3d82aefde76d02147cf3c44078967943c29))
+
 ### [0.0.2](https://github.com/programinglive/laravel-simple-backup/compare/v0.0.1...v0.0.2) (2025-12-08)
 
 
