@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Laravel Simple Backup, please email security@programinglive.com instead of using the issue tracker.
+If you discover a security vulnerability in Laravel Simple Backup, please email mahatma.mahardhika@programinglive.com instead of using the issue tracker.
 
 Please include the following details in your report:
 

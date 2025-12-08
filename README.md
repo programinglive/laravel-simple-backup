@@ -1,6 +1,12 @@
 # Laravel Simple Backup
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-8892BF.svg)](https://php.net/)
+[![Laravel Version](https://img.shields.io/badge/laravel-%3E%3D10.0-FF2D20.svg)](https://laravel.com/)
+
 A simple Laravel package for backing up MySQL and PostgreSQL databases.
+
+**Author:** Mahatma Mahardhika <mahatma.mahardhika@programinglive.com>
 
 ## Features
 
@@ -115,9 +121,64 @@ Example:
 backup_myapp_2024-12-08_10-30-45.sql
 ```
 
+## Testing
+
+### Running Tests
+
+```bash
+# Run all tests
+vendor/bin/phpunit
+
+# Run specific test file
+vendor/bin/phpunit tests/BackupManagerTest.php
+
+# Run with coverage
+vendor/bin/phpunit --coverage-html coverage
+```
+
+### Testing in a Laravel Project
+
+To test this package in a real Laravel project:
+
+1. Create a new Laravel project:
+   ```bash
+   composer create-project laravel/laravel test-backup-app
+   cd test-backup-app
+   ```
+
+2. Add the package as a local repository in `composer.json`:
+   ```json
+   "repositories": [
+       {
+           "type": "path",
+           "url": "../laravel-simple-backup"
+       }
+   ]
+   ```
+
+3. Install the package:
+   ```bash
+   composer require programinglive/laravel-simple-backup:@dev
+   ```
+
+4. Configure your database in `.env` and run:
+   ```bash
+   php artisan backup:database
+   ```
+
+5. Check the backup file in `storage/backups/`
+
+## Contributing
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Security
+
+If you discover any security-related issues, please email mahatma.mahardhika@programinglive.com instead of using the issue tracker.
+
 ## License
 
-MIT License. See LICENSE file for details.
+MIT License. See [LICENSE](LICENSE) file for details.
 
 ## Support
 
