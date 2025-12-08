@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/programinglive/laravel-simple-backup/compare/v0.0.1...v0.0.2) (2025-12-08)
+
+
+### ✨ Features
+
+* add frontend website with modern ui design ([ecca6eb](https://github.com/programinglive/laravel-simple-backup/commit/ecca6eb66bb1ccf321d9c7fb06ed9d6f7362ed17))
+
 ## [0.0.1] - 2024-12-08
 
 ### ✨ Features
