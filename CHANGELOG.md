@@ -2,19 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## 1.1.0 (2025-12-08)
-
+## [0.0.1] - 2024-12-08
 
 ### ✨ Features
 
 * Initial release of programinglive/laravel-simple-backup package ([ad627ae](https://github.com/programinglive/laravel-simple-backup/commit/ad627aed98f7f9d9a707a86bcfe5bf213e11a6fa))
 
-
 ### ✅ Tests
 
 * add comprehensive tests and update documentation with author info ([dafec0c](https://github.com/programinglive/laravel-simple-backup/commit/dafec0ca8e6b8ce6c275e14aea61e0b492b1fce5))
-
-## [1.0.0] - 2024-12-08
 
 ### Added
 - Initial release of Laravel Simple Backup
