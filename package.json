@@ -1,6 +1,6 @@
 {
   "name": "@programinglive/laravel-simple-backup",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple Laravel package for backing up MySQL and PostgreSQL databases",
   "main": "index.js",
   "scripts": {

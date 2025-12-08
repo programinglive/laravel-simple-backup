@@ -1,11 +1,18 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## 1.1.0 (2025-12-08)
 
-## [Unreleased]
+
+### ✨ Features
+
+* Initial release of programinglive/laravel-simple-backup package ([ad627ae](https://github.com/programinglive/laravel-simple-backup/commit/ad627aed98f7f9d9a707a86bcfe5bf213e11a6fa))
+
+
+### ✅ Tests
+
+* add comprehensive tests and update documentation with author info ([dafec0c](https://github.com/programinglive/laravel-simple-backup/commit/dafec0ca8e6b8ce6c275e14aea61e0b492b1fce5))
 
 ## [1.0.0] - 2024-12-08
 
