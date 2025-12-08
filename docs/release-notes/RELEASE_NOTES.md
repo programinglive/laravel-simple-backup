@@ -1,4 +1,14 @@
-# Release Notes
+
+| Version | Date | Highlights |
+|---------|------|------------|
+| 0.0.3 | 2025-12-08 | relax dependency constraints and add laravel 12 support (790ff3d) |
+
+
+## 0.0.3 – 🐛 Bug Fixes
+
+Released on **2025-12-08**.
+
+- relax dependency constraints and add laravel 12 support (790ff3d)
 
 ## v0.0.1 (2024-12-08)
 
