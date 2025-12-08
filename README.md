@@ -1,8 +1,8 @@
 # Laravel Simple Backup
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-8892BF.svg)](https://php.net/)
-[![Laravel Version](https://img.shields.io/badge/laravel-%3E%3D10.0-FF2D20.svg)](https://laravel.com/)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.1-8892BF.svg)](https://php.net/)
+[![Laravel Version](https://img.shields.io/badge/laravel-%3E%3D9.0-FF2D20.svg)](https://laravel.com/)
 
 A simple Laravel package for backing up MySQL and PostgreSQL databases.
 
@@ -89,8 +89,8 @@ $backups = Backup::getBackups();
 
 ## Requirements
 
-- PHP 8.2 or higher
-- Laravel 10.0 or higher
+- PHP 8.1 or higher
+- Laravel 9.0, 10.0, 11.0, or 12.0
 - MySQL or PostgreSQL with command-line tools installed
 
 ### System Requirements
