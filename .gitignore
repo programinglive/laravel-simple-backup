@@ -10,3 +10,8 @@ composer.lock
 .idea/
 .vscode/
 *.log
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.netlify/
