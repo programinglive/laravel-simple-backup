@@ -1,0 +1,16 @@
+{
+  "releaseType": "semantic",
+  "changelog": "CHANGELOG.md",
+  "commitMessage": "chore(release): v{version} {emoji}",
+  "tagPrefix": "v",
+  "pushTags": true,
+  "createRelease": true,
+  "releaseName": "Release {version}",
+  "preReleaseScript": "npm run test",
+  "postReleaseScript": "",
+  "files": [
+    "package.json",
+    "composer.json",
+    "CHANGELOG.md"
+  ]
+}

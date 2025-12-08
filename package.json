@@ -1,0 +1,30 @@
+{
+  "name": "@programinglive/laravel-simple-backup",
+  "version": "1.0.0",
+  "description": "A simple Laravel package for backing up MySQL and PostgreSQL databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "phpunit",
+    "release": "commiter"
+  },
+  "keywords": [
+    "laravel",
+    "backup",
+    "database",
+    "mysql",
+    "postgresql"
+  ],
+  "author": "Programming Live",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/programinglive/laravel-simple-backup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/programinglive/laravel-simple-backup/issues"
+  },
+  "homepage": "https://github.com/programinglive/laravel-simple-backup#readme",
+  "devDependencies": {
+    "@programinglive/commiter": "^1.0.0"
+  }
+}
