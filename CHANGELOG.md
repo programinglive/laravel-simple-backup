@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/programinglive/laravel-simple-backup/compare/v0.0.3...v0.1.0) (2026-11-01)
+
+
+### 📝 Documentation
+
+* backfill missing release notes for v0.0.2 ([4aa6ea7](https://github.com/programinglive/laravel-simple-backup/commit/4aa6ea76464f74421ad560ec99f61c12511a6f27))
+* update release notes structure and add v0.0.3 entry ([48573f5](https://github.com/programinglive/laravel-simple-backup/commit/48573f55c8cdafd7a3f6b20f13830047f3a97cf4))
+
+
+### ✨ Features
+
+* dukung Laravel 13 ([8312409](https://github.com/programinglive/laravel-simple-backup/commit/83124091b22e41e5f22e2ffe0e65c46f15e6d67f))
+
 ### [0.0.3](https://github.com/programinglive/laravel-simple-backup/compare/v0.0.2...v0.0.3) (2025-12-08)
 
 
