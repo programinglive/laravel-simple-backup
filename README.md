@@ -1,5 +1,8 @@
 # Laravel Simple Backup
 
+> [!WARNING]
+> **Consolidated into DB Pinball**: This repository has been merged into the [`programinglive/dbpinball`](https://github.com/programinglive/dbpinball) monorepo under `packages/laravel-adapter`. Future development and maintenance continue inside the DB Pinball project.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.1-8892BF.svg)](https://php.net/)
 [![Laravel Version](https://img.shields.io/badge/laravel-%3E%3D9.0-FF2D20.svg)](https://laravel.com/)
